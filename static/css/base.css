@@ -1,0 +1,40 @@
+.navbar-default{
+    /*-webkit-box-align: center;*/
+    /*-webkit-align-items: center;*/
+    /*-ms-flex-align: center;*/
+    /*align-items: center;*/
+    background-color: #ffffff !important;
+    /*box-sizing: content-box;*/
+    /*display: -webkit-box;*/
+    /*display: -webkit-flex;*/
+    /*display: -ms-flexbox;*/
+    /*height: 24px;*/
+
+    /*left: 0;*/
+    /*margin: 0;*/
+    padding: 16px 24px;
+    /*position: fixed;*/
+    /*right: 0;*/
+    /*top: 0;*/
+    /*z-index: 16;*/
+}
+.container-fluid{
+    width: 80%;
+}
+
+.body{
+    background: #f8f8f8;
+}
+
+.main{
+    width: 68%;
+    text-align: center; /*让div内部文字居中*/
+    margin: auto;
+    /*position: absolute;*/
+    /*top: 120px;*/
+    /*left: 0;*/
+    /*right: 0;*/
+    /*bottom: 0;*/
+    background: white;
+    /*padding: 10px 0px 10px;*/
+}
